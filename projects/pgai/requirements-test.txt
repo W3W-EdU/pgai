@@ -2,7 +2,7 @@
 # it is also referred to from requirements-dev.txt for use on host development machines
 
 ruff==0.6.9
-pytest==8.3.2
+pytest==9.0.3
 python-dotenv==1.0.1
 vcrpy==6.0.1
 pyright==1.1.385
